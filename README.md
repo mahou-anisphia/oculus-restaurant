@@ -80,5 +80,3 @@ See the [LICENSE](https://www.google.com/search?q=./License) file for more detai
 -----
 
 *Maintained by the EHC Team (Legacy)*
-
-```
