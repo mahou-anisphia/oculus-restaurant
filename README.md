@@ -1,3 +1,5 @@
+_From the product series "Magicodelogy"_
+
 # Oculus Restaurant Management System
 
 > **Note:** This project is **archived** and represents my **first-ever completed group project**. It is a backend server designed for restaurant management, preserved here as a milestone in my development journey.
